@@ -19,12 +19,12 @@ professional interface.
 - 🧭 **Navigation Bar** – Easy access to different sections
 - ☎ **Clickable Contacts** – All phone numbers and emails open directly on tap
 
-## [Contributors](https://github.com/ramneetk0002/FOUR_FRONT_LOGISTICS/graphs/contributors) 1 (1)
+## [Contributors](https://github.com/ramneetk0002/NORTH_AMERICAN_FLATBED/graphs/contributors) 1 (1)
 
 - [![@ramneetk0002](https://avatars.githubusercontent.com/u/156989489?s=64&v=4)](https://github.com/ramneetk0002)[**ramneetk0002**](https://github.com/ramneetk0002)
 
 ## Languages
 
-- [CSS 50%](https://github.com/ramneetk0002/FOUR_FRONT_LOGISTICS/search?l=css)
-- [HTML 38.5%](https://github.com/ramneetk0002/FOUR_FRONT_LOGISTICS/search?l=html)
-- [JavaScript 11.5%](https://github.com/ramneetk0002/FOUR_FRONT_LOGISTICS/search?l=javascript)
+- [CSS 50%](https://github.com/ramneetk0002/NORTH_AMERICAN_FLATBED/search?l=css)
+- [HTML 38.5%](https://github.com/ramneetk0002/NORTH_AMERICAN_FLATBED/search?l=html)
+- [JavaScript 11.5%](https://github.com/ramneetk0002/NORTH_AMERICAN_FLATBED/search?l=javascript)
