@@ -7,7 +7,7 @@ transportation services across Canada and the USA, with a clean and
 professional interface.
 
 ## 🌐 Live Demo
-👉 View Live Website: https://ramneetk0002.github.io/NORTH-AMERICAN-FLATBED
+👉 View Live Website: https://ramneetk0002.github.io/NORTH_AMERICAN_FLATBED/
 
 ## ✨ Features
 
